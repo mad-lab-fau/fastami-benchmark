@@ -1,0 +1,13 @@
+# Ignore shared library objects
+*.so
+
+# Ignore Pycache files
+**/__pycache__/
+
+# Ignore results
+results/
+
+# Ignore SNAP Dataset files
+data/*
+!data/snap/.gitkeep
+!data/gagolewski/gagolewski.zip

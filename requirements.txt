@@ -1,0 +1,13 @@
+matplotlib==3.5.1
+memory_profiler==0.60.0
+networkit==9.1.1
+numpy==1.21.2
+oct2py==5.5.1
+pandas==1.4.1
+psutil==5.8.0
+pyarrow==9.0.0
+requests==2.27.1
+scikit_learn==1.1.2
+scipy==1.9.0
+tqdm==4.63.0
+tabulate==0.8.10
