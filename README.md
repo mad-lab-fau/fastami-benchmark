@@ -1,7 +1,8 @@
 # Benchmark for FastAMI - A Monte Carlo Approach to the Adjustment for Chance in Clustering Comparison Metrics
 
-This repository contains the research code for our paper *FastAMI - A Monte Carlo Approach to the Adjustment for Chance in Clustering Comparison Metrics* which will be presented at AAAI-23 in February 2023.
-A standalone version of FastAMI for easier use in other projects will be released before the conference on PyPi. This benchmark version compares our implementation with the AMI in [scikit-learn](https://scikit-learn.org), the pairwise AMI [[3]](#3), and the SMI [[1]](#1) and contains a preprocessed version of the *Benchmark Suite for Clustering Algorithms - Version 1* [[2]](#2).
+This repository contains the research code for our paper *FastAMI - A Monte Carlo Approach to the Adjustment for Chance in Clustering Comparison Metrics* which will be presented at AAAI-23 in February 2023. A standalone version of FastAMI for easier use in other projects is available at https://github.com/mad-lab-fau/fastami and can be installed from PyPi via ``pip install fastami``. This repository is for archival purposes only. 
+
+This benchmark version compares our implementation with the AMI in [scikit-learn](https://scikit-learn.org), the pairwise AMI [[3]](#3), and the SMI [[1]](#1) and contains a preprocessed version of the *Benchmark Suite for Clustering Algorithms - Version 1* [[2]](#2).
 
 ## Setup
 
